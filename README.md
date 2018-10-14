@@ -73,6 +73,19 @@ UserA id, UserB id, list of [states] of their mutual Friends.
 Sample Output:
 26, 28	[Evangeline: Ohio, Charlotte: California]
 
+Q4.
+
+Using reduce-side join and job chaining:
+
+Step 1: Calculate the minimum age of the direct friends of each user.
+Step 2: Sort the users by the calculated minimum age from step 1 in descending order.
+Step 3. Output the top 10 users from step 2 with their address and the calculated minimum age.
+
+Sample output.
+  
+User A, 1000 Anderson blvd, Dallas, TX, minimum age of direct friends.
+
+
 Results:
 
 Question1: 
