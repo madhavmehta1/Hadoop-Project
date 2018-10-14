@@ -54,8 +54,6 @@ where <User_A> & <User_B> are unique IDs corresponding to a user A and B (A and 
 Please find the output for the following pairs:
 (0,1), (20, 28193), (1, 29826), (6222, 19272), (28041, 28056)
 
-Submit the source code and the output via the elearning website.
-
 
 Q2.
 Please answer this question by using dataset from Q1.
@@ -100,5 +98,17 @@ Top 10 paris of friends who have the highest number of mutual friends
 18722,18729	99
 
 Question 3:
-Last name and States of Mutual freinds of user 28041 and 28056
+Last name and States of Mutual friends of user 28041 and 28056
 28041,28056	[Stephanie:Louisiana,Carl:Tennessee,Taylor:Pennsylvania]
+
+Question 4:
+Angela,Roybal,1656 Marietta Street,Santa Rosa,California	88
+Lewis,Dawson,4833 Stewart Street,Indianapolis,Indiana	88
+Sara,Carter,3301 Palmer Road,Westerville,Ohio	88
+Lottie,Tucker,4035 Canis Heights Drive,Los Angeles,California	88
+Patricia,Countryman,2661 Counts Lane,Cincinnati,Kentucky	88
+Tyson,Witkowski,4181 Richards Avenue,Stockton,California	88
+Richard,Wilke,4287 Locust Street,Albany,Georgia	88
+Mary,Kennedy,1833 Boring Lane,San Francisco,California	88
+Maureen,Creasey,568 Columbia Road,Denver,Colorado	88
+Randee,Raymond,238 Golden Street,Miami,Florida	88
